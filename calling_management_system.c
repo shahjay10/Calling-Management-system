@@ -496,8 +496,6 @@ case 9:
     break;
 case 10:
 yellow();
-    printf("\t\t\t\t\tDSA - INNOVATIVE ASSIGNMENT\n");
-    printf("\t\t\t\t\t21BCE269\n21BCE270\n21BCE271");
     break;
 default:
 red();
